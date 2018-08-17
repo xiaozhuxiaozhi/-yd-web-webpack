@@ -1,0 +1,18 @@
+[2018-08-17T15:48:01.342] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Users/zhuziwei/Desktop/yd-web-webpack/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path:
+   '/Users/zhuziwei/Desktop/yd-web-webpack/dist/views/index.html' }
+[2018-08-17T15:48:05.775] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Users/zhuziwei/Desktop/yd-web-webpack/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path:
+   '/Users/zhuziwei/Desktop/yd-web-webpack/dist/views/index.html' }
+[2018-08-17T15:48:14.319] [ERROR] cheese - { [Error: ENOENT: no such file or directory, open '/Users/zhuziwei/Desktop/yd-web-webpack/dist/views/index.html']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path:
+   '/Users/zhuziwei/Desktop/yd-web-webpack/dist/views/index.html' }

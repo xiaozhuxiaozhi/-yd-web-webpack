@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>前端架构启蒙课</title>
+	<script src="https://cdn.bootcss.com/vue/2.5.17-beta.0/vue.min.js"></script>
+    <link href="./css/index.css" rel="stylesheet"/>
+</head>
+<body>
+	<h1>[[data]]</h1>
+    <hr/>
+    <div id="app">
+        {{message}}
+    </div>
+    <script src="./js/index.js"></script>
+    <script>
+    var app =new Vue({
+        el:'#app',
+        data(){
+            return {
+                message:'hello Vue'
+            }
+        }
+    })
+    </script>
+</body>
+</html>
